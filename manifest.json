@@ -1,0 +1,9 @@
+{
+  "name": "SNE Reader Gemini Analysis",
+  "short_name": "SNE Reader",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f4ea",
+  "theme_color": "#FFD54A",
+  "icons": [{"src":"icon.png","sizes":"512x512","type":"image/png"}]
+}
